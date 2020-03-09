@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99048889-5842-4e90-92ef-8df2cfe4cc71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqrjQlyf6zDu1hiAWaJWrR0ilV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Python.HelloWorld2">
+    <configuration name="消息盒子" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/消息盒子.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="窗口居中" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/窗口居中.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.消息盒子" />
+        <item itemvalue="Python.HelloWorld4" />
+        <item itemvalue="Python.HelloWorld3" />
+        <item itemvalue="Python.HelloWorld2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99048889-5842-4e90-92ef-8df2cfe4cc71" name="Default Changelist" comment="" />
+      <created>1583681099794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583681099794</updated>
+      <workItem from="1583681103389" duration="4156000" />
+      <workItem from="1583754421988" duration="169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="122" y="-804" key="Github.CreateGistDialog" timestamp="1583754505663">
+      <screen x="-430" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="122" y="-804" key="Github.CreateGistDialog/-430.-1417.2560.1417/0.23.1680.962@-430.-1417.2560.1417" timestamp="1583754505663" />
+    <state x="478" y="-822" key="Github.ShareDialog" timestamp="1583754552296">
+      <screen x="-430" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="478" y="-822" key="Github.ShareDialog/-430.-1417.2560.1417/0.23.1680.964@-430.-1417.2560.1417" timestamp="1583754552296" />
+    <state width="1180" height="253" key="GridCell.Tab.0.bottom" timestamp="1583685760597">
+      <screen x="-430" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1180" height="253" key="GridCell.Tab.0.bottom/-430.-1417.2560.1417/0.23.1680.955@-430.-1417.2560.1417" timestamp="1583685760597" />
+    <state width="1180" height="253" key="GridCell.Tab.0.bottom/-430.-1417.2560.1417/0.23.1680.957@-430.-1417.2560.1417" timestamp="1583685636410" />
+    <state width="1180" height="253" key="GridCell.Tab.0.center" timestamp="1583685760597">
+      <screen x="-430" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1180" height="253" key="GridCell.Tab.0.center/-430.-1417.2560.1417/0.23.1680.955@-430.-1417.2560.1417" timestamp="1583685760597" />
+    <state width="1180" height="253" key="GridCell.Tab.0.center/-430.-1417.2560.1417/0.23.1680.957@-430.-1417.2560.1417" timestamp="1583685636409" />
+    <state width="1180" height="253" key="GridCell.Tab.0.left" timestamp="1583685760597">
+      <screen x="-430" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1180" height="253" key="GridCell.Tab.0.left/-430.-1417.2560.1417/0.23.1680.955@-430.-1417.2560.1417" timestamp="1583685760597" />
+    <state width="1180" height="253" key="GridCell.Tab.0.left/-430.-1417.2560.1417/0.23.1680.957@-430.-1417.2560.1417" timestamp="1583685636409" />
+    <state width="1180" height="253" key="GridCell.Tab.0.right" timestamp="1583685760597">
+      <screen x="-430" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1180" height="253" key="GridCell.Tab.0.right/-430.-1417.2560.1417/0.23.1680.955@-430.-1417.2560.1417" timestamp="1583685760597" />
+    <state width="1180" height="253" key="GridCell.Tab.0.right/-430.-1417.2560.1417/0.23.1680.957@-430.-1417.2560.1417" timestamp="1583685636410" />
+    <state x="90" y="-1251" key="SettingsEditor" timestamp="1583754484053">
+      <screen x="-430" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="341" y="135" key="SettingsEditor/-430.-1417.2560.1417/0.23.1680.955@0.23.1680.955" timestamp="1583681113277" />
+    <state x="90" y="-1251" key="SettingsEditor/-430.-1417.2560.1417/0.23.1680.962@-430.-1417.2560.1417" timestamp="1583754484053" />
+    <state x="40" y="-894" key="com.intellij.ide.util.TipDialog" timestamp="1583754422135">
+      <screen x="-430" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="40" y="-894" key="com.intellij.ide.util.TipDialog/-430.-1417.2560.1417/0.23.1680.962@-430.-1417.2560.1417" timestamp="1583754422135" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/work1$HelloWorld2.coverage" NAME="HelloWorld2 Coverage Results" MODIFIED="1583682258318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work1$HelloWorld4.coverage" NAME="HelloWorld4 Coverage Results" MODIFIED="1583684608797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work1$.coverage" NAME="窗口居中 Coverage Results" MODIFIED="1583685663908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work1$HelloWOrld.coverage" NAME="HelloWOrld Coverage Results" MODIFIED="1583681326988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work1$HelloWorld3.coverage" NAME="HelloWorld3 Coverage Results" MODIFIED="1583684140528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
